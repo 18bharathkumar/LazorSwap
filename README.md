@@ -179,3 +179,10 @@ All transactions (swaps, deposits, withdrawals) are signed using **LazorKit Wall
 - `@solana/spl-token` – For token operations
 - `@solana/spl-token-swap` – For the swap logic
 - `lazorkit` – For passkey login and transaction signing
+
+  ![WhatsApp Image 2025-05-10 at 21 37 17_5683fc01](https://github.com/user-attachments/assets/e28b5a46-7ce2-4fbc-9b0f-bb9bef82a434)
+
+
+  ![WhatsApp Image 2025-05-10 at 21 38 21_468fad3d](https://github.com/user-attachments/assets/ffb093f5-ec20-48de-a2d3-7f7e9654b11d)
+
+
